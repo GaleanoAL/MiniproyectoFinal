@@ -154,7 +154,7 @@ Desde el menú principal o durante el duelo. Si el archivo de disco existe, rest
 ### Historial de resultados
 Al terminar cada duelo se escribe una línea en `resultados.txt`:
 ```
-2026-06-01 14:23:11 | Yugi vs Kaiba | Ganador: Yugi | Turnos: 12 | LP: 3200 - 0
+2026-06-01 14:23:11 | JP1 vs JP2 | Ganador: JP1 | Turnos: 12 | LP: 3200 - 0
 ```
 
 ### Estadísticas
