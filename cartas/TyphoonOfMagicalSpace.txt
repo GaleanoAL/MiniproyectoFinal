@@ -1,0 +1,4 @@
+nombre=Typhoon Of Magical Space
+clase=modelo.carta.TyphoonOfMagicalSpace
+tipo=Magica
+descripcion=Destruye el primer monstruo del campo enemigo

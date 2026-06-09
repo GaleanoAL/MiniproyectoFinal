@@ -1,0 +1,4 @@
+nombre=Hinotama
+clase=modelo.carta.Hinotama
+tipo=Magica
+descripcion=Inflige 500 puntos de daño directo al oponente

@@ -1,0 +1,4 @@
+nombre=Change of Heart
+clase=modelo.carta.ChangeOfHeart
+tipo=Magica
+descripcion=Toma control del primer monstruo del campo enemigo

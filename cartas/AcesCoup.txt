@@ -1,0 +1,4 @@
+nombre=Aces Coup
+clase=modelo.carta.AcesCoup
+tipo=Magica
+descripcion=Lanza moneda: cara = robas 2 cartas, cruz = el oponente roba 2

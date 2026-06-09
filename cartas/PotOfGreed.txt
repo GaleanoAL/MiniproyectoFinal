@@ -1,0 +1,4 @@
+nombre=Pot of Greed
+clase=modelo.carta.PotOfGreed
+tipo=Magica
+descripcion=Roba 2 cartas del mazo

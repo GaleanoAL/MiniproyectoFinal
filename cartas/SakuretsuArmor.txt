@@ -1,0 +1,4 @@
+nombre=Sakuretsu Armor
+clase=modelo.carta.SakuretsuArmor
+tipo=Trampa
+descripcion=Destruye el primer monstruo atacante del oponente

@@ -1,0 +1,4 @@
+nombre=Standar Of Courage
+clase=modelo.carta.StandarOfCourage
+tipo=Magica
+descripcion=Aumenta el ATK de todos tus monstruos en 200

@@ -1,0 +1,4 @@
+nombre=Dark Hole
+clase=modelo.carta.DarkHole
+tipo=Magica
+descripcion=Destruye todos los monstruos de ambos campos

@@ -1,0 +1,4 @@
+nombre=Mirror Force
+clase=modelo.carta.MirrorForce
+tipo=Trampa
+descripcion=Destruye todos los monstruos atacantes del oponente

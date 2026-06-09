@@ -1,0 +1,4 @@
+nombre=Raigeki
+clase=modelo.carta.Raigeki
+tipo=Magica
+descripcion=Destruye todos los monstruos del oponente
