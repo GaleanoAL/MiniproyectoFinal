@@ -246,7 +246,7 @@ MINI4_D/
 - Nivel 7+: 2 sacrificios
 
 ### Condiciones de victoria
-- LP del oponente llegan a 0
+- HP del oponente llegan a 0
 - El oponente intenta robar con el mazo vacío
 
 ---
